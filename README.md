@@ -1,14 +1,10 @@
-# Sample Hardhat Project
+# Token-Creation
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This an overall project that creates a token that can be deployed on a local hardhat node and also deployed on the Ropsten Testnet. The contract is verified on the Ropsten Testnet.
 
-Try running some of the following tasks:
+To run the project open terminal all type the following commands
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
+```
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-# Token-Creation
